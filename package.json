@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/CubedHost/node-hsperf/issues"
   },
-  "homepage": "https://github.com/CubedHost/node-hsperf#readme"
+  "homepage": "https://github.com/CubedHost/node-hsperf#readme",
+  "dependencies": {
+    "int64-buffer": "^0.99.1007"
+  }
 }
